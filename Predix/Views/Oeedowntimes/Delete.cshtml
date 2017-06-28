@@ -1,0 +1,53 @@
+@model Predix.Models.Oeedowntime
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Oeedowntime</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <input type="hidden" asp-for="OeedowntimeId" />
+        <dt>
+            @Html.DisplayNameFor(model => model.DateDebut)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DateDebut)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DateFin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DateFin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Duree)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Duree)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Commentaire)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Commentaire)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Equipement)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Equipement.EquipementId)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </form>
+</div>

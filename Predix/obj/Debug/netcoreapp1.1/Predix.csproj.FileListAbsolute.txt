@@ -1,0 +1,9 @@
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\bin\Debug\netcoreapp1.1\Predix.deps.json
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\bin\Debug\netcoreapp1.1\Predix.runtimeconfig.json
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\bin\Debug\netcoreapp1.1\Predix.runtimeconfig.dev.json
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\bin\Debug\netcoreapp1.1\Predix.dll
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\bin\Debug\netcoreapp1.1\Predix.pdb
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\obj\Debug\netcoreapp1.1\Predix.csprojResolveAssemblyReference.cache
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\obj\Debug\netcoreapp1.1\Predix.AssemblyInfo.cs
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\obj\Debug\netcoreapp1.1\Predix.dll
+c:\users\c&p - josh\documents\visual studio 2017\Projects\Predix\Predix\obj\Debug\netcoreapp1.1\Predix.pdb
